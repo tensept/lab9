@@ -1,4 +1,6 @@
-/*
+#include <iostream>
+using namespace std;
+
 "Enter your age: "
 "Enter your height: "
 "Enter your bounty: "
